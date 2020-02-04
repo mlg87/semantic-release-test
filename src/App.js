@@ -20,6 +20,7 @@ function App() {
         </a>
         <div>add some nice text</div>
         <button>BEST FEATURE EVER</button>
+        <span>hi blake, how are you?</span>
       </header>
     </div>
   );
