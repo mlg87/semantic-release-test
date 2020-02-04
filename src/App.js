@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
         <div>add some nice text</div>
-        <button>BEST EVER</button>
+        <button>Second Best EVER</button>
         <span>hi blake, how are you?</span>
       </header>
     </div>

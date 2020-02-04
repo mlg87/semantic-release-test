@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/mlg87/semantic-release-test/compare/v1.1.1...v1.1.2) (2020-02-04)
+
+
+### Bug Fixes
+
+* typo in button ([0282efd](https://github.com/mlg87/semantic-release-test/commit/0282efd77a76f45554d4e48fcdc387dea4dee595))
+
 ## [1.1.1](https://github.com/mlg87/semantic-release-test/compare/v1.1.0...v1.1.1) (2020-02-04)
 
 
