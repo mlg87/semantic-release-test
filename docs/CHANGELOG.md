@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/mlg87/semantic-release-test/compare/v1.0.0...v1.0.1) (2020-02-04)
+
+
+### Bug Fixes
+
+* get some nice text in there ([8753e47](https://github.com/mlg87/semantic-release-test/commit/8753e472e23754c23cac4d31e2d7d2334aa6b24c))
+
 # 1.0.0 (2020-02-04)
 
 

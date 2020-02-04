@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
         <div>add some nice text</div>
+        <button>BEST FEATURE EVER</button>
       </header>
     </div>
   );
