@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/mlg87/semantic-release-test/compare/v1.3.0...v1.3.1) (2020-02-04)
+
+
+### Bug Fixes
+
+* path for the changelog ([04a7c3e](https://github.com/mlg87/semantic-release-test/commit/04a7c3ee1df8cc9d64941c68f57864cf22a54f51))
+
 # [1.2.0](https://github.com/mlg87/semantic-release-test/compare/v1.1.2...v1.2.0) (2020-02-04)
 
 
