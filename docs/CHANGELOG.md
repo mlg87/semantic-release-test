@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/mlg87/semantic-release-test/compare/v1.0.1...v1.1.0) (2020-02-04)
+
+
+### Features
+
+* added a button ([e90e880](https://github.com/mlg87/semantic-release-test/commit/e90e88031568e33c382d56869394844231223abf))
+
 ## [1.0.1](https://github.com/mlg87/semantic-release-test/compare/v1.0.0...v1.0.1) (2020-02-04)
 
 
