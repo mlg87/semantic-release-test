@@ -26,6 +26,7 @@ function App() {
           this is some of that new new that should hopefully trigger a release
           remotely
         </span>
+        <span>this is just for emoji</span>
       </header>
     </div>
   );
