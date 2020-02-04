@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/mlg87/semantic-release-test/compare/v1.1.2...v1.2.0) (2020-02-04)
+
+
+### Bug Fixes
+
+* it actually wasnt a typo ([eca0f82](https://github.com/mlg87/semantic-release-test/commit/eca0f82931b32248ed959ae6c65bca2e0c32d1eb))
+
+
+### Features
+
+* fresh button ([b98a6f0](https://github.com/mlg87/semantic-release-test/commit/b98a6f02deb8641b3dddefd27b9f124fc5ed8e4b))
+
 ## [1.1.2](https://github.com/mlg87/semantic-release-test/compare/v1.1.1...v1.1.2) (2020-02-04)
 
 
