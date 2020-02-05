@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/mlg87/semantic-release-test/compare/v3.0.1...v4.0.0) (2020-02-05)
+
+
+### Features
+
+* **span:** add new span for the boys ([2419285](https://github.com/mlg87/semantic-release-test/commit/24192859fa9b54ad6b9307d2fe70ab5dc6abaa02))
+
+
+### BREAKING CHANGES
+
+* **span:** just trigger ok?
+
 ## [3.0.1](https://github.com/mlg87/semantic-release-test/compare/v3.0.0...v3.0.1) (2020-02-05)
 
 
