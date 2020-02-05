@@ -61,7 +61,8 @@
             "docs/CHANGELOG.md",
             "README.md",
             "package.json",
-            "yarn.lock"
+            "yarn.lock",
+            "src"
           ],
           "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
         }
