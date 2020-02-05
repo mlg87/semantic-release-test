@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/mlg87/semantic-release-test/compare/v1.4.0...v1.4.1) (2020-02-05)
+
+
+### Performance Improvements
+
+* BREAKING CHANGE this should trigger a major release ([5197aae](https://github.com/mlg87/semantic-release-test/commit/5197aae0cb3000d2d44faaa1e665f87231fc64c0))
+
 # [1.4.0](https://github.com/mlg87/semantic-release-test/compare/v1.3.2...v1.4.0) (2020-02-05)
 
 
