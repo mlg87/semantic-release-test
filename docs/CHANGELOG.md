@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/mlg87/semantic-release-test/compare/v1.3.1...v1.3.2) (2020-02-04)
+
+
+### Bug Fixes
+
+* :lipstick: lipstick baby ([0f86867](https://github.com/mlg87/semantic-release-test/commit/0f86867d45bddc9ed10de1404ed626733939b8d2))
+
 ## [1.3.1](https://github.com/mlg87/semantic-release-test/compare/v1.3.0...v1.3.1) (2020-02-04)
 
 
