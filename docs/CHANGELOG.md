@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/mlg87/semantic-release-test/compare/v1.3.2...v1.4.0) (2020-02-05)
+
+
+### Features
+
+* add semantic npm to pkg.json to update version number ([eb615c1](https://github.com/mlg87/semantic-release-test/commit/eb615c1065ebfce1b53a94182c7595bb27a09ec6))
+
 ## [1.3.2](https://github.com/mlg87/semantic-release-test/compare/v1.3.1...v1.3.2) (2020-02-04)
 
 
