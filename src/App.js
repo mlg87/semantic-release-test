@@ -27,6 +27,7 @@ function App() {
         </span>
         <span>this is just for emoji</span>
         <span>lets trigger a major release</span>
+        <span>damn you breaking change</span>
       </header>
     </div>
   );
