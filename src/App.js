@@ -21,7 +21,6 @@ function App() {
         <div>add some nice text</div>
         <button>Second Best EVER</button>
         <span>hi blake, how are you?</span>
-        <button>newest button</button>
         <span>
           this is some of that new new that should hopefully trigger a release
           remotely
