@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-test",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "private": true,
   "repository": {
     "url": "https://github.com/mlg87/semantic-release-test"
