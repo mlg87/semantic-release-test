@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-test",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "private": true,
   "repository": {
     "url": "https://github.com/mlg87/semantic-release-test"
@@ -45,19 +45,33 @@
         {
           "preset": "angular",
           "parserOpts": {
-            "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
+            "noteKeywords": [
+              "BREAKING CHANGE",
+              "BREAKING CHANGES",
+              "BREAKING"
+            ]
           }
         }
       ],
-      ["@semantic-release/release-notes-generator", {
-        "preset": "angular",
-        "parserOpts": {
-          "noteKeywords": ["BREAKING CHANGE", "BREAKING CHANGES", "BREAKING"]
-        },
-        "writerOpts": {
-          "commitsSort": ["subject", "scope"]
+      [
+        "@semantic-release/release-notes-generator",
+        {
+          "preset": "angular",
+          "parserOpts": {
+            "noteKeywords": [
+              "BREAKING CHANGE",
+              "BREAKING CHANGES",
+              "BREAKING"
+            ]
+          },
+          "writerOpts": {
+            "commitsSort": [
+              "subject",
+              "scope"
+            ]
+          }
         }
-      }],
+      ],
       [
         "@semantic-release/changelog",
         {

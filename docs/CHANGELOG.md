@@ -1,3 +1,15 @@
+## [3.0.1](https://github.com/mlg87/semantic-release-test/compare/v3.0.0...v3.0.1) (2020-02-05)
+
+
+### Bug Fixes
+
+* bad formatting in pkg.json ([f7b3317](https://github.com/mlg87/semantic-release-test/commit/f7b33173688ad7b91b6e33047ed034b5d43791b8))
+
+
+### Performance Improvements
+
+* BREAKING CHANGE changed the way that the commit-analyzer looks at commits ([ec78cb9](https://github.com/mlg87/semantic-release-test/commit/ec78cb94429d88886428d826420ee92db8546a86))
+
 # [3.0.0](https://github.com/mlg87/semantic-release-test/compare/v2.0.0...v3.0.0) (2020-02-05)
 
 # [2.0.0](https://github.com/mlg87/semantic-release-test/compare/v1.4.1...v2.0.0) (2020-02-05)
