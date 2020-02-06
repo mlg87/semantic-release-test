@@ -28,6 +28,7 @@ function App() {
         <span>this is just for emoji</span>
         <span>lets trigger a major release</span>
         <span>damn you breaking change</span>
+        <span>release a patch</span>
       </header>
     </div>
   );
