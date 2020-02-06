@@ -5,6 +5,8 @@ on:
       - master
 jobs:
   generate:
+    name: Generate
+    runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v1
       - name: "Get Previous tag"
