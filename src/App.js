@@ -29,6 +29,7 @@ function App() {
         <span>lets trigger a major release</span>
         <span>damn you breaking change</span>
         <span>release a patch</span>
+        <span>fix bug</span>
       </header>
     </div>
   );
