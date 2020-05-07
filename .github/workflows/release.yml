@@ -25,7 +25,9 @@ jobs:
         with:
           ref: staging
           fetch-depth: 0
-      - name: Automatic Rebase
-        uses: cirrus-actions/rebase@1.2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Rebase master
+        run: git rebase master
+      - name: Checkout master
+        uses: actions/checkout@v2
+      - name: Merge staging
+        run: git merge origin/staging --ff
