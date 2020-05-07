@@ -28,7 +28,7 @@ jobs:
       - name: Git status
         run: git status
       - name: Rebase master
-        run: git rebase --onto staging master
+        run: git rebase --onto staging HEAD^
       - name: Checkout master
         uses: actions/checkout@v2
       - name: Merge staging
