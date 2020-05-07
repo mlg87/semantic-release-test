@@ -1,3 +1,10 @@
+## [4.0.8](https://github.com/mlg87/semantic-release-test/compare/v4.0.7...v4.0.8) (2020-05-07)
+
+
+### Bug Fixes
+
+* another thing for the boys ([95882a2](https://github.com/mlg87/semantic-release-test/commit/95882a2c4190f67868ba63b1d4543a0677532e5e))
+
 ## [4.0.7](https://github.com/mlg87/semantic-release-test/compare/v4.0.6...v4.0.7) (2020-05-07)
 
 
