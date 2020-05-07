@@ -1,3 +1,78 @@
+## [4.2.5](https://github.com/mlg87/semantic-release-test/compare/v4.2.4...v4.2.5) (2020-05-07)
+
+
+### Performance Improvements
+
+* this is going directly on master ([624af93](https://github.com/mlg87/semantic-release-test/commit/624af9336f06b1e268e90692c53f803867ff3919))
+
+## [4.2.5](https://github.com/mlg87/semantic-release-test/compare/v4.2.4...v4.2.5) (2020-05-07)
+
+
+### Performance Improvements
+
+* this is going directly on master ([624af93](https://github.com/mlg87/semantic-release-test/commit/624af9336f06b1e268e90692c53f803867ff3919))
+
+## [4.2.4](https://github.com/mlg87/semantic-release-test/compare/v4.2.3...v4.2.4) (2020-05-07)
+
+
+### Bug Fixes
+
+* why this no work? ([8321656](https://github.com/mlg87/semantic-release-test/commit/8321656d44c2630c00a57f6f942bb4256766cffa))
+
+## [4.2.4](https://github.com/mlg87/semantic-release-test/compare/v4.2.3...v4.2.4) (2020-05-07)
+
+
+### Bug Fixes
+
+* why this no work? ([8321656](https://github.com/mlg87/semantic-release-test/commit/8321656d44c2630c00a57f6f942bb4256766cffa))
+
+## [4.2.3](https://github.com/mlg87/semantic-release-test/compare/v4.2.2...v4.2.3) (2020-05-07)
+
+
+### Bug Fixes
+
+* this is the one ([1707a05](https://github.com/mlg87/semantic-release-test/commit/1707a05b2b2fd8ad3d436f8254e49e5f9d1168ff))
+
+## [4.2.2](https://github.com/mlg87/semantic-release-test/compare/v4.2.1...v4.2.2) (2020-05-07)
+
+
+### Bug Fixes
+
+* please ([f2ea299](https://github.com/mlg87/semantic-release-test/commit/f2ea299b469c887e1ad83206fdaa5a39b70f5ba3))
+
+## [4.2.2](https://github.com/mlg87/semantic-release-test/compare/v4.2.1...v4.2.2) (2020-05-07)
+
+
+### Bug Fixes
+
+* please ([f2ea299](https://github.com/mlg87/semantic-release-test/commit/f2ea299b469c887e1ad83206fdaa5a39b70f5ba3))
+
+## [4.2.1](https://github.com/mlg87/semantic-release-test/compare/v4.2.0...v4.2.1) (2020-05-07)
+
+
+### Bug Fixes
+
+* the thingz ([167f396](https://github.com/mlg87/semantic-release-test/commit/167f396e063d359beffecd2e2dcf95aa6f890dc0))
+
+# [4.2.0](https://github.com/mlg87/semantic-release-test/compare/v4.1.1...v4.2.0) (2020-05-07)
+
+
+### Bug Fixes
+
+* remove the thign again ([10097cc](https://github.com/mlg87/semantic-release-test/commit/10097cca5f3ad7449f540bd5bc5fc3e5d7d578ee))
+
+
+### Features
+
+* add a new rebase step that will hopefully not through up ([4fbde07](https://github.com/mlg87/semantic-release-test/commit/4fbde078b7d9ba830b48b4d211123438eae26a45))
+
+## [4.1.1](https://github.com/mlg87/semantic-release-test/compare/v4.1.0...v4.1.1) (2020-05-07)
+
+
+### Bug Fixes
+
+* remove the rebase yml ([c288531](https://github.com/mlg87/semantic-release-test/commit/c2885310d7af1439a9028fd85411f4e43c334962))
+
 # [4.1.0](https://github.com/mlg87/semantic-release-test/compare/v4.0.19...v4.1.0) (2020-05-07)
 
 
