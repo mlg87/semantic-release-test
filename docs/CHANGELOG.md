@@ -1,3 +1,10 @@
+## [4.1.1](https://github.com/mlg87/semantic-release-test/compare/v4.1.0...v4.1.1) (2020-05-07)
+
+
+### Bug Fixes
+
+* remove the rebase yml ([c288531](https://github.com/mlg87/semantic-release-test/commit/c2885310d7af1439a9028fd85411f4e43c334962))
+
 # [4.1.0](https://github.com/mlg87/semantic-release-test/compare/v4.0.19...v4.1.0) (2020-05-07)
 
 
