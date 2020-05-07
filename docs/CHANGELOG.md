@@ -1,3 +1,10 @@
+## [4.0.6](https://github.com/mlg87/semantic-release-test/compare/v4.0.5...v4.0.6) (2020-05-07)
+
+
+### Performance Improvements
+
+* the thing ([5cf2fcb](https://github.com/mlg87/semantic-release-test/commit/5cf2fcb5269d349f21287ccead8ba48c79601112))
+
 ## [4.0.5](https://github.com/mlg87/semantic-release-test/compare/v4.0.4...v4.0.5) (2020-05-07)
 
 
