@@ -1,3 +1,10 @@
+## [4.0.11](https://github.com/mlg87/semantic-release-test/compare/v4.0.10...v4.0.11) (2020-05-07)
+
+
+### Bug Fixes
+
+* try origin/master this time instead ([42d6940](https://github.com/mlg87/semantic-release-test/commit/42d6940e0f2eccb857ef025aa8256e027beb6ad3))
+
 ## [4.0.10](https://github.com/mlg87/semantic-release-test/compare/v4.0.9...v4.0.10) (2020-05-07)
 
 
