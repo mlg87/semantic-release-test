@@ -1,3 +1,11 @@
+## [4.0.9](https://github.com/mlg87/semantic-release-test/compare/v4.0.8...v4.0.9) (2020-05-07)
+
+
+### Bug Fixes
+
+* added the rebase to the thign ([a986133](https://github.com/mlg87/semantic-release-test/commit/a9861335387f70e82adc32db74b9ae4ebf295ffe))
+* the thing again; ([5094fe7](https://github.com/mlg87/semantic-release-test/commit/5094fe7bef45602eb1482b1e6515ebc6565105ef))
+
 ## [4.0.8](https://github.com/mlg87/semantic-release-test/compare/v4.0.7...v4.0.8) (2020-05-07)
 
 
