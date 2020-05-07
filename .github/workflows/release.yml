@@ -26,7 +26,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           # GitHub public repo slug or full https clone url (with access_token if needed)
-          source_repo: https://github.com/mlg87/semantic-release-test
+          source_repo: https://github.com/mlg87/semantic-release-test.git
           # Branch name to sync from
           source_branch: staging
           # Branch name to sync to in this repo
