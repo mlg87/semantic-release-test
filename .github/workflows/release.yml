@@ -21,11 +21,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: npx semantic-release
       - name: Checkout staging
-        uses: actions/checkout@staging
+        uses: actions/checkout@v2
         with:
-          # 0 indicates all history
+          ref: staging
           fetch-depth: 0
       - name: Automatic Rebase
         uses: cirrus-actions/rebase@1.2
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
