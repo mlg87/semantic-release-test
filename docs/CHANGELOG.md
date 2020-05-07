@@ -5,6 +5,13 @@
 
 * why this no work? ([8321656](https://github.com/mlg87/semantic-release-test/commit/8321656d44c2630c00a57f6f942bb4256766cffa))
 
+## [4.2.4](https://github.com/mlg87/semantic-release-test/compare/v4.2.3...v4.2.4) (2020-05-07)
+
+
+### Bug Fixes
+
+* why this no work? ([8321656](https://github.com/mlg87/semantic-release-test/commit/8321656d44c2630c00a57f6f942bb4256766cffa))
+
 ## [4.2.3](https://github.com/mlg87/semantic-release-test/compare/v4.2.2...v4.2.3) (2020-05-07)
 
 
