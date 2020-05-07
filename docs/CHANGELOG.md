@@ -5,6 +5,13 @@
 
 * the thing from master ([faca4f1](https://github.com/mlg87/semantic-release-test/commit/faca4f1d4752ff600a6a682c591c9656967e2c7a))
 
+## [4.2.6](https://github.com/mlg87/semantic-release-test/compare/v4.2.5...v4.2.6) (2020-05-07)
+
+
+### Bug Fixes
+
+* the thing from master ([faca4f1](https://github.com/mlg87/semantic-release-test/commit/faca4f1d4752ff600a6a682c591c9656967e2c7a))
+
 ## [4.2.5](https://github.com/mlg87/semantic-release-test/compare/v4.2.4...v4.2.5) (2020-05-07)
 
 
