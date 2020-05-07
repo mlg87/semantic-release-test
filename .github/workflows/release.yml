@@ -20,3 +20,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: npx semantic-release
+      - name: Checkout staging
+        uses: actions/checkout@staging
+        with:
+          # 0 indicates all history
+          fetch-depth: 0
+      - name: Automatic Rebase
+        uses: cirrus-actions/rebase@1.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
