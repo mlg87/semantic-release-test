@@ -20,11 +20,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: npx semantic-release
-      - name: Checkout staging
-        uses: actions/checkout@v2
-        with:
-          ref: staging
-          fetch-depth: 0
+      # - name: Checkout staging
+      #   uses: actions/checkout@v2
+      #   with:
+      #     ref: staging
+      #     fetch-depth: 0
       - name: Git status
         run: git status
       - name: Rebase master
