@@ -1,3 +1,10 @@
+## [4.0.15](https://github.com/mlg87/semantic-release-test/compare/v4.0.14...v4.0.15) (2020-05-07)
+
+
+### Bug Fixes
+
+* comment out the staging code ([09c2a54](https://github.com/mlg87/semantic-release-test/commit/09c2a54da23cd20b755fd57aa78c2fb726a0e12a))
+
 ## [4.0.14](https://github.com/mlg87/semantic-release-test/compare/v4.0.13...v4.0.14) (2020-05-07)
 
 
