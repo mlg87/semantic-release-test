@@ -1,3 +1,10 @@
+## [4.2.3](https://github.com/mlg87/semantic-release-test/compare/v4.2.2...v4.2.3) (2020-05-07)
+
+
+### Bug Fixes
+
+* this is the one ([1707a05](https://github.com/mlg87/semantic-release-test/commit/1707a05b2b2fd8ad3d436f8254e49e5f9d1168ff))
+
 ## [4.2.2](https://github.com/mlg87/semantic-release-test/compare/v4.2.1...v4.2.2) (2020-05-07)
 
 
