@@ -1,3 +1,10 @@
+## [4.2.1](https://github.com/mlg87/semantic-release-test/compare/v4.2.0...v4.2.1) (2020-05-07)
+
+
+### Bug Fixes
+
+* the thingz ([167f396](https://github.com/mlg87/semantic-release-test/commit/167f396e063d359beffecd2e2dcf95aa6f890dc0))
+
 # [4.2.0](https://github.com/mlg87/semantic-release-test/compare/v4.1.1...v4.2.0) (2020-05-07)
 
 
