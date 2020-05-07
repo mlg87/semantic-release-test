@@ -1,3 +1,10 @@
+## [4.0.13](https://github.com/mlg87/semantic-release-test/compare/v4.0.12...v4.0.13) (2020-05-07)
+
+
+### Bug Fixes
+
+* moooor ([5e1d419](https://github.com/mlg87/semantic-release-test/commit/5e1d419fc27941ae60339499a6dd513035db36f6))
+
 ## [4.0.12](https://github.com/mlg87/semantic-release-test/compare/v4.0.11...v4.0.12) (2020-05-07)
 
 
