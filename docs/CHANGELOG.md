@@ -1,3 +1,10 @@
+## [4.0.5](https://github.com/mlg87/semantic-release-test/compare/v4.0.4...v4.0.5) (2020-05-07)
+
+
+### Bug Fixes
+
+* for real though, commit the damn notes ([fdb09e5](https://github.com/mlg87/semantic-release-test/commit/fdb09e55f4cbb9dfd22b421491878f0d665f24bc))
+
 # [4.0.0](https://github.com/mlg87/semantic-release-test/compare/v3.0.1...v4.0.0) (2020-02-05)
 
 
