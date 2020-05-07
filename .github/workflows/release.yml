@@ -28,8 +28,8 @@ jobs:
       - name: Git status
         run: git status
       - name: Rebase master
-        run: git status && git rebase origin/master
+        run: git rebase --onto staging master
       - name: Checkout master
         uses: actions/checkout@v2
       - name: Merge staging
-        run: git merge origin/staging --ff
+        run: git merge staging --ff
