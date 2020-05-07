@@ -28,6 +28,6 @@ jobs:
           # GitHub public repo slug or full https clone url (with access_token if needed)
           source_repo: https://github.com/mlg87/semantic-release-test.git
           # Branch name to sync from
-          source_branch: master
+          source_branch: staging
           # Branch name to sync to in this repo
-          destination_branch: staging
+          destination_branch: master
