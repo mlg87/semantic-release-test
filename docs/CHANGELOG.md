@@ -5,6 +5,13 @@
 
 * this is going directly on master ([624af93](https://github.com/mlg87/semantic-release-test/commit/624af9336f06b1e268e90692c53f803867ff3919))
 
+## [4.2.5](https://github.com/mlg87/semantic-release-test/compare/v4.2.4...v4.2.5) (2020-05-07)
+
+
+### Performance Improvements
+
+* this is going directly on master ([624af93](https://github.com/mlg87/semantic-release-test/commit/624af9336f06b1e268e90692c53f803867ff3919))
+
 ## [4.2.4](https://github.com/mlg87/semantic-release-test/compare/v4.2.3...v4.2.4) (2020-05-07)
 
 
