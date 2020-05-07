@@ -71,6 +71,31 @@
             ]
           }
         }
+      ],
+      [
+        "@semantic-release/git",
+        {
+          "assets": [
+            "docs/CHANGELOG.md",
+            "docs/releases.json",
+            "README.md",
+            "package.json",
+            "yarn.lock"
+          ],
+          "message": "Release <%= nextRelease.version %> - <%= new Date().toLocaleDateString('en-US', {year: 'numeric', month: 'short', day: 'numeric', hour: 'numeric', minute: 'numeric' }) %> [skip ci]\n\n<%= nextRelease.notes %>"
+        }
+      ],
+      [
+        "@semantic-release/github",
+        {
+          "assets": [
+            "docs/CHANGELOG.md",
+            "docs/releases.json",
+            "README.md",
+            "package.json",
+            "yarn.lock"
+          ]
+        }
       ]
     ]
   },
@@ -78,6 +103,7 @@
     "@semantic-release/changelog": "^5.0.0",
     "@semantic-release/commit-analyzer": "^8.0.1",
     "@semantic-release/git": "^9.0.0",
+    "@semantic-release/github": "^7.0.5",
     "@semantic-release/npm": "^7.0.2",
     "semantic-release": "^17.0.2"
   }
