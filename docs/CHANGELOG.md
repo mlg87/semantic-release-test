@@ -1,3 +1,10 @@
+## [4.0.10](https://github.com/mlg87/semantic-release-test/compare/v4.0.9...v4.0.10) (2020-05-07)
+
+
+### Bug Fixes
+
+* write my own action ish ([f536cb3](https://github.com/mlg87/semantic-release-test/commit/f536cb35917fd506d6d6951aae94553c3ba7ac93))
+
 ## [4.0.9](https://github.com/mlg87/semantic-release-test/compare/v4.0.8...v4.0.9) (2020-05-07)
 
 
