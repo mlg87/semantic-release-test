@@ -1,3 +1,10 @@
+## [4.0.12](https://github.com/mlg87/semantic-release-test/compare/v4.0.11...v4.0.12) (2020-05-07)
+
+
+### Bug Fixes
+
+* add git status ([c2657ba](https://github.com/mlg87/semantic-release-test/commit/c2657ba3a42ba9eadd06c449729b96e99c5424cf))
+
 ## [4.0.11](https://github.com/mlg87/semantic-release-test/compare/v4.0.10...v4.0.11) (2020-05-07)
 
 
