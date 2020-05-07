@@ -1,3 +1,10 @@
+# [4.1.0](https://github.com/mlg87/semantic-release-test/compare/v4.0.19...v4.1.0) (2020-05-07)
+
+
+### Features
+
+* add a new rebase step that will hopefully not through up ([31896f0](https://github.com/mlg87/semantic-release-test/commit/31896f02bd95d7aa7b89814c4926aa9631d8e0d0))
+
 ## [4.0.19](https://github.com/mlg87/semantic-release-test/compare/v4.0.18...v4.0.19) (2020-05-07)
 
 
