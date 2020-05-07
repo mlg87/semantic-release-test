@@ -1,3 +1,15 @@
+# [4.2.0](https://github.com/mlg87/semantic-release-test/compare/v4.1.1...v4.2.0) (2020-05-07)
+
+
+### Bug Fixes
+
+* remove the thign again ([10097cc](https://github.com/mlg87/semantic-release-test/commit/10097cca5f3ad7449f540bd5bc5fc3e5d7d578ee))
+
+
+### Features
+
+* add a new rebase step that will hopefully not through up ([4fbde07](https://github.com/mlg87/semantic-release-test/commit/4fbde078b7d9ba830b48b4d211123438eae26a45))
+
 ## [4.1.1](https://github.com/mlg87/semantic-release-test/compare/v4.1.0...v4.1.1) (2020-05-07)
 
 
