@@ -1,3 +1,15 @@
+## [4.8.0](https://github.com/mlg87/semantic-release-test/compare/v4.7.0...v4.8.0) (2020-08-11)
+
+
+### Features
+
+* this is an empty feature ([88682ca](https://github.com/mlg87/semantic-release-test/commit/88682ca25793eef6c2fdc64856c53cd5549758e0))
+
+
+### Enhancements
+
+* change the pkg json shit ([7306a7d](https://github.com/mlg87/semantic-release-test/commit/7306a7d8d8f0198cd559438a31af0b81920bf90d))
+
 ## [4.7.0](https://github.com/mlg87/semantic-release-test/compare/v4.6.0...v4.7.0) (2020-08-11)
 
 ## [4.7.0](https://github.com/mlg87/semantic-release-test/compare/v4.6.0...v4.7.0) (2020-08-11)
