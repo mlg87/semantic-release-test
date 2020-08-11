@@ -1,3 +1,30 @@
+## [14.0.0](https://github.com/mlg87/semantic-release-test/compare/v13.0.1...v14.0.0) (2020-08-11)
+
+
+### Bug Fixes
+
+* a bug fix ([ef9a4b6](https://github.com/mlg87/semantic-release-test/commit/ef9a4b6174439ce5828e262d3cc46f89d18034b1))
+
+
+### Enhancements
+
+* refactor baby ([57d61ab](https://github.com/mlg87/semantic-release-test/commit/57d61abe9fac816a7368aa40c2a31b9b4e85b884))
+
+
+### Features
+
+* feat baby ([c916c0c](https://github.com/mlg87/semantic-release-test/commit/c916c0cf5178a7b9e9a05aba6e6c11cb3fcc3ef2))
+
+
+### Major Changes
+
+* major news baby ([deb85cc](https://github.com/mlg87/semantic-release-test/commit/deb85cc92e25527c49d0c7e88c34fad6a4fc8a31))
+
+
+### Performance Improvements
+
+* perf baby ([2aaddaa](https://github.com/mlg87/semantic-release-test/commit/2aaddaa69fe6d9ae333c396f5fc063807af566ff))
+
 ### [13.0.1](https://github.com/mlg87/semantic-release-test/compare/v13.0.0...v13.0.1) (2020-08-11)
 
 
