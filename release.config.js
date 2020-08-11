@@ -1,10 +1,3 @@
-function compareCommitGroupsSort(group) {
-  console.log(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
-  console.log("group", { ...group });
-
-  console.log("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<");
-}
-
 module.exports = {
   branches: ["master"],
   plugins: [
@@ -55,13 +48,12 @@ module.exports = {
             {
               type: "major",
               section: "Major Changes",
-              sortOrder: 0,
             },
           ],
         },
         writerOpts: {
           commitsSort: ["subject", "scope"],
-          commitGroupsSort: compareCommitGroupsSort,
+          commitGroupsSort: "title",
         },
       },
     ],
