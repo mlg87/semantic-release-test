@@ -1,3 +1,17 @@
+### [9.0.1](https://github.com/mlg87/semantic-release-test/compare/v9.0.0...v9.0.1) (2020-08-11)
+
+
+### Performance Improvements
+
+* remove the fucking generate thing ([9c89724](https://github.com/mlg87/semantic-release-test/commit/9c8972453b88f90ee18d6f5c89fbc74ace268a41))
+
+### [9.0.1](https://github.com/mlg87/semantic-release-test/compare/v9.0.0...v9.0.1) (2020-08-11)
+
+
+### Performance Improvements
+
+* remove the fucking generate thing ([9c89724](https://github.com/mlg87/semantic-release-test/commit/9c8972453b88f90ee18d6f5c89fbc74ace268a41))
+
 ## [9.0.0](https://github.com/mlg87/semantic-release-test/compare/v8.0.0...v9.0.0) (2020-08-11)
 
 
