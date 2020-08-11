@@ -1,3 +1,15 @@
+### [13.0.1](https://github.com/mlg87/semantic-release-test/compare/v13.0.0...v13.0.1) (2020-08-11)
+
+
+### Bug Fixes
+
+* more shit ([6c61f68](https://github.com/mlg87/semantic-release-test/commit/6c61f681d877757d2f2674237136ecae4c28679a))
+
+
+### Performance Improvements
+
+* some shit ([14e75aa](https://github.com/mlg87/semantic-release-test/commit/14e75aafaf825ac17f49c1de1037fe3a24bb41b2))
+
 ## [13.0.0](https://github.com/mlg87/semantic-release-test/compare/v12.0.0...v13.0.0) (2020-08-11)
 
 
