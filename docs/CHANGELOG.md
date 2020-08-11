@@ -1,3 +1,20 @@
+# [4.3.0](https://github.com/mlg87/semantic-release-test/compare/v4.2.7...v4.3.0) (2020-08-11)
+
+
+### Bug Fixes
+
+* this should show up in bug fixes ([6834e15](https://github.com/mlg87/semantic-release-test/commit/6834e158385cc393e761b8d281bbbea137ed339a))
+
+
+### Features
+
+* this should show up in features ([f62bdbe](https://github.com/mlg87/semantic-release-test/commit/f62bdbeababacdc9e4ab9ddb81b12ef90aa3b0e0))
+
+
+### Performance Improvements
+
+* this is a performance update ([9bb98b8](https://github.com/mlg87/semantic-release-test/commit/9bb98b8ce43b9a5192191e1af88654929a8fc4f7))
+
 ## [4.2.7](https://github.com/mlg87/semantic-release-test/compare/v4.2.6...v4.2.7) (2020-08-11)
 
 ## [4.2.7](https://github.com/mlg87/semantic-release-test/compare/v4.2.6...v4.2.7) (2020-08-11)
