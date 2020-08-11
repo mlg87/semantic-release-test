@@ -50,7 +50,13 @@
               "BREAKING CHANGES",
               "BREAKING"
             ]
-          }
+          },
+          "releaseRules": [
+            {
+              "type": "refactor",
+              "release": "patch"
+            }
+          ]
         }
       ],
       [
