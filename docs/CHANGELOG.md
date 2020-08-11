@@ -1,3 +1,10 @@
+## [5.1.0](https://github.com/mlg87/semantic-release-test/compare/v5.0.0...v5.1.0) (2020-08-11)
+
+
+### Features
+
+* BREAKING CHANGES were releasing version 6! ([d7efd4a](https://github.com/mlg87/semantic-release-test/commit/d7efd4ac11abbfc106fd7064e4523495218b2f9d))
+
 ## [5.0.0](https://github.com/mlg87/semantic-release-test/compare/v4.8.0...v5.0.0) (2020-08-11)
 
 
