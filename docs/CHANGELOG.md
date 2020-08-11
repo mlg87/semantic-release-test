@@ -1,3 +1,20 @@
+## [9.0.0](https://github.com/mlg87/semantic-release-test/compare/v8.0.0...v9.0.0) (2020-08-11)
+
+
+### Features
+
+* a baby feature ([3b7041e](https://github.com/mlg87/semantic-release-test/commit/3b7041e879e8aec9a676799c4b81b4b6a1e359ea))
+
+
+### Performance Improvements
+
+* a nice perf boost ([eca477b](https://github.com/mlg87/semantic-release-test/commit/eca477b6d136b6fc1a5332ccc3c08d256bff9358))
+
+
+### Major Changes
+
+* Fix the note group sort ([b42f653](https://github.com/mlg87/semantic-release-test/commit/b42f653d92ccd72c2b49624952676aeec86656b3))
+
 ## [8.0.0](https://github.com/mlg87/semantic-release-test/compare/v7.0.0...v8.0.0) (2020-08-11)
 
 
