@@ -5,6 +5,13 @@
 
 * add sort order ([d3fa2da](https://github.com/mlg87/semantic-release-test/commit/d3fa2daa9c50ebc05b0f5caee17780a32d52616b))
 
+## [13.0.0](https://github.com/mlg87/semantic-release-test/compare/v12.0.0...v13.0.0) (2020-08-11)
+
+
+### Major Changes
+
+* add sort order ([d3fa2da](https://github.com/mlg87/semantic-release-test/commit/d3fa2daa9c50ebc05b0f5caee17780a32d52616b))
+
 ## [12.0.0](https://github.com/mlg87/semantic-release-test/compare/v11.0.0...v12.0.0) (2020-08-11)
 
 
