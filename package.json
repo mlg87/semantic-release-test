@@ -103,7 +103,7 @@
               "subject",
               "scope"
             ],
-            "noteGroupsSort": [
+            "commitGroupsSort": [
               "Major Changes",
               "Features",
               "Enhancements",
