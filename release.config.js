@@ -55,6 +55,7 @@ module.exports = {
             {
               type: "major",
               section: "Major Changes",
+              sortOrder: 0,
             },
           ],
         },
