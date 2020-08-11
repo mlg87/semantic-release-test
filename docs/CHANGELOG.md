@@ -5,6 +5,24 @@
 
 * were releasing version 6! ([d7efd4a](https://github.com/mlg87/semantic-release-test/commit/d7efd4ac11abbfc106fd7064e4523495218b2f9d))
 
+* Release 5.1.0 - Aug 11, 2020, 5:23 PM [skip ci] ([2c3973d](https://github.com/mlg87/semantic-release-test/commit/2c3973df94ec940516cb707b9836aa7c0f201f0b))
+* were releasing version 6! ([d7efd4a](https://github.com/mlg87/semantic-release-test/commit/d7efd4ac11abbfc106fd7064e4523495218b2f9d))
+
+### Features
+
+* BREAKING CHANGES were releasing version 6! ([d7efd4a](https://github.com/mlg87/semantic-release-test/commit/d7efd4ac11abbfc106fd7064e4523495218b2f9d))
+
+
+* Release 6.0.0 - Aug 11, 2020, 5:24 PM [skip ci] ([d1fb874](https://github.com/mlg87/semantic-release-test/commit/d1fb8741e93d499eca73c7c4dee2ab4dd108ed17))
+* Release 5.1.0 - Aug 11, 2020, 5:23 PM [skip ci] ([2c3973d](https://github.com/mlg87/semantic-release-test/commit/2c3973df94ec940516cb707b9836aa7c0f201f0b))
+
+## [6.0.0](https://github.com/mlg87/semantic-release-test/compare/v5.0.0...v6.0.0) (2020-08-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* were releasing version 6! ([d7efd4a](https://github.com/mlg87/semantic-release-test/commit/d7efd4ac11abbfc106fd7064e4523495218b2f9d))
+
 ### Features
 
 * BREAKING CHANGES were releasing version 6! ([d7efd4a](https://github.com/mlg87/semantic-release-test/commit/d7efd4ac11abbfc106fd7064e4523495218b2f9d))
