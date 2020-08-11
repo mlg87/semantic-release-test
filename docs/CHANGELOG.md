@@ -1,5 +1,7 @@
 ## [4.6.0](https://github.com/mlg87/semantic-release-test/compare/v4.5.0...v4.6.0) (2020-08-11)
 
+## [4.6.0](https://github.com/mlg87/semantic-release-test/compare/v4.5.0...v4.6.0) (2020-08-11)
+
 ## [4.5.0](https://github.com/mlg87/semantic-release-test/compare/v4.4.0...v4.5.0) (2020-08-11)
 
 
