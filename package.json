@@ -102,6 +102,13 @@
             "commitsSort": [
               "subject",
               "scope"
+            ],
+            "noteGroupsSort": [
+              "Major Changes",
+              "Features",
+              "Enhancements",
+              "Performance Improvements",
+              "Bug Fixes"
             ]
           }
         }
