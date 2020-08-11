@@ -10,6 +10,18 @@
 
 * go to release.config.js ([b0815d5](https://github.com/mlg87/semantic-release-test/commit/b0815d5f5fb3718e4c1bec2ddc87081de8930cea))
 
+## [11.0.0](https://github.com/mlg87/semantic-release-test/compare/v10.0.0...v11.0.0) (2020-08-11)
+
+
+### Major Changes
+
+* add a sort function ([80443eb](https://github.com/mlg87/semantic-release-test/commit/80443eb261583dc0d33d3f27f4dfaf6d36819429))
+
+
+### Enhancements
+
+* go to release.config.js ([b0815d5](https://github.com/mlg87/semantic-release-test/commit/b0815d5f5fb3718e4c1bec2ddc87081de8930cea))
+
 ## [10.0.0](https://github.com/mlg87/semantic-release-test/compare/v9.0.1...v10.0.0) (2020-08-11)
 
 
