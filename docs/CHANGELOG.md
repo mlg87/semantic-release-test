@@ -1,3 +1,57 @@
+## [10.0.0](https://github.com/mlg87/semantic-release-test/compare/v9.0.1...v10.0.0) (2020-08-11)
+
+
+### Enhancements
+
+* refactor things ([e5f8e3e](https://github.com/mlg87/semantic-release-test/commit/e5f8e3ee9d7207a03f26ae895525070a195d862b))
+
+
+### Features
+
+* new feat ([09204e0](https://github.com/mlg87/semantic-release-test/commit/09204e08483d436f25bc76f839fedb0b672b0418))
+
+
+### Bug Fixes
+
+* this fixes things ([c45aae5](https://github.com/mlg87/semantic-release-test/commit/c45aae508de8512ff68221a38ff03a1900dff99b))
+
+
+### Performance Improvements
+
+* perf thing ([e16b7ce](https://github.com/mlg87/semantic-release-test/commit/e16b7ce0f99fbb6b989358f9dfb2dec3f4b656f8))
+
+
+### Major Changes
+
+* change commitGroupsSort ([c3aa10e](https://github.com/mlg87/semantic-release-test/commit/c3aa10ea511ee4d4824378d620b20148bca08eff))
+
+## [10.0.0](https://github.com/mlg87/semantic-release-test/compare/v9.0.1...v10.0.0) (2020-08-11)
+
+
+### Enhancements
+
+* refactor things ([e5f8e3e](https://github.com/mlg87/semantic-release-test/commit/e5f8e3ee9d7207a03f26ae895525070a195d862b))
+
+
+### Features
+
+* new feat ([09204e0](https://github.com/mlg87/semantic-release-test/commit/09204e08483d436f25bc76f839fedb0b672b0418))
+
+
+### Bug Fixes
+
+* this fixes things ([c45aae5](https://github.com/mlg87/semantic-release-test/commit/c45aae508de8512ff68221a38ff03a1900dff99b))
+
+
+### Performance Improvements
+
+* perf thing ([e16b7ce](https://github.com/mlg87/semantic-release-test/commit/e16b7ce0f99fbb6b989358f9dfb2dec3f4b656f8))
+
+
+### Major Changes
+
+* change commitGroupsSort ([c3aa10e](https://github.com/mlg87/semantic-release-test/commit/c3aa10ea511ee4d4824378d620b20148bca08eff))
+
 ### [9.0.1](https://github.com/mlg87/semantic-release-test/compare/v9.0.0...v9.0.1) (2020-08-11)
 
 
