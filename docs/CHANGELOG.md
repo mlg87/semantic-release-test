@@ -1,3 +1,11 @@
+## [4.5.0](https://github.com/mlg87/semantic-release-test/compare/v4.4.0...v4.5.0) (2020-08-11)
+
+
+### Enhancements
+
+* add the dep baby ([9ab61ae](https://github.com/mlg87/semantic-release-test/commit/9ab61aee92e72c70a5aee65dd3668b49f0feb466))
+* use conventional commits ([0000a8d](https://github.com/mlg87/semantic-release-test/commit/0000a8dbdb672da2d3780f237de828bdef57b75d))
+
 # [4.4.0](https://github.com/mlg87/semantic-release-test/compare/v4.3.0...v4.4.0) (2020-08-11)
 
 
