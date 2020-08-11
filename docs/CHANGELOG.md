@@ -1,3 +1,25 @@
+## [8.0.0](https://github.com/mlg87/semantic-release-test/compare/v7.0.0...v8.0.0) (2020-08-11)
+
+
+### Features
+
+* this is a baby feature in a major change ([715d0ad](https://github.com/mlg87/semantic-release-test/commit/715d0adf6675dec420d453098020dd372dfb08ea))
+
+
+### Performance Improvements
+
+* and this is a gorgeous performance enhancement ([357e72a](https://github.com/mlg87/semantic-release-test/commit/357e72add701f0285a2ef20996cbeadb75795d4c))
+
+
+### Major Changes
+
+* this is now how we trigger major releases ([30d454e](https://github.com/mlg87/semantic-release-test/commit/30d454e07b6c6583f5f7f1e1d9ac6c31bc580e67))
+
+
+### Enhancements
+
+* this is a baby refactor ([047a18e](https://github.com/mlg87/semantic-release-test/commit/047a18e6c83ef4b7a986e163f734828d789f3496))
+
 ## [7.0.0](https://github.com/mlg87/semantic-release-test/compare/v6.0.0...v7.0.0) (2020-08-11)
 
 
