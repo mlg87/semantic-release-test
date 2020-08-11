@@ -55,6 +55,10 @@
             {
               "type": "refactor",
               "release": "patch"
+            },
+            {
+              "type": "major",
+              "release": "major"
             }
           ]
         }
@@ -87,6 +91,10 @@
               {
                 "type": "perf",
                 "section": "Performance Improvements"
+              },
+              {
+                "type": "major",
+                "section": "Major Changes"
               }
             ]
           },
