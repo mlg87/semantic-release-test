@@ -1,3 +1,15 @@
+## [12.0.0](https://github.com/mlg87/semantic-release-test/compare/v11.0.0...v12.0.0) (2020-08-11)
+
+
+### Performance Improvements
+
+* anothskdfjsl ([d7c9a96](https://github.com/mlg87/semantic-release-test/commit/d7c9a96ac2bbfd69ba6d973a0fa7067ee4b39d49))
+
+
+### Major Changes
+
+* copy group so i can see differeing values ([4d463ab](https://github.com/mlg87/semantic-release-test/commit/4d463ab9bb82d10a38a227812a86fae2bbfdab0f))
+
 ## [11.0.0](https://github.com/mlg87/semantic-release-test/compare/v10.0.0...v11.0.0) (2020-08-11)
 
 
