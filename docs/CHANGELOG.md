@@ -5,6 +5,13 @@
 
 * but did the refactor shit break features? ([3c6f7fa](https://github.com/mlg87/semantic-release-test/commit/3c6f7fa3f5cd9dae2c1b9c02f6f9a864536e424f))
 
+# [4.4.0](https://github.com/mlg87/semantic-release-test/compare/v4.3.0...v4.4.0) (2020-08-11)
+
+
+### Features
+
+* but did the refactor shit break features? ([3c6f7fa](https://github.com/mlg87/semantic-release-test/commit/3c6f7fa3f5cd9dae2c1b9c02f6f9a864536e424f))
+
 # [4.3.0](https://github.com/mlg87/semantic-release-test/compare/v4.2.7...v4.3.0) (2020-08-11)
 
 
