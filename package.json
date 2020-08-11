@@ -70,6 +70,14 @@
               "BREAKING"
             ]
           },
+          "presetConfig": {
+            "types": [
+              {
+                "type": "refactor",
+                "section": "Enhancements"
+              }
+            ]
+          },
           "writerOpts": {
             "commitsSort": [
               "subject",
